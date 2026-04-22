@@ -83,7 +83,7 @@ project/
 ## 🛠️ Tech Stack
 
 * Python
-* TensorFlow / Keras or PyTorch
+* YOLO
 * OpenCV
 * NumPy
 * Matplotlib
