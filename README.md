@@ -25,7 +25,6 @@ project/
 │   └── test/
 │── models/
 │── outputs/
-│── notebooks/
 │── README.md
 ```
 
