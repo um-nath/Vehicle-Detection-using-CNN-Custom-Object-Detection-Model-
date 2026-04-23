@@ -38,6 +38,7 @@ project/
 * Organized dataset into train, validation, and test sets
 * Ensured proper annotation and labeling for object detection
 * Applied preprocessing techniques (resizing, normalization, augmentation)
+* Data set could be downloaded using the link: https://drive.google.com/drive/folders/1wQQdKctPohETdrpE5D124qxffTKXoNgl?usp=sharing
 
 ---
 
